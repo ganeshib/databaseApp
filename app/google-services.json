@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "610019709882",
+    "firebase_url": "https://dbbb-1cb18-default-rtdb.firebaseio.com",
+    "project_id": "dbbb-1cb18",
+    "storage_bucket": "dbbb-1cb18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610019709882:android:e85981ce4e4d9fb891c383",
+        "android_client_info": {
+          "package_name": "com.example.dbb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBECYf9NPBIIotTjSMm1_n1FLMxY7g48VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
